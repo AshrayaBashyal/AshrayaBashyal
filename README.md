@@ -27,9 +27,9 @@
   </div>
 
   <!-- ACTIVITY GRAPH SMALLER -->
-  <div style="flex: 1 1 280px; min-width: 250px; max-width: 280px; background-color:#1f1f1f; color:white; padding:15px; border-radius:12px;" align="center">
+  <div style="flex: 1 1 70%; min-width: 300px; background-color:#1f1f1f; color:white; padding:15px; border-radius:12px; text-align:center; margin:auto;">
     <h3>📈 Activity</h3>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshrayaBashyal&theme=github-dark&width=250" style="width:250px;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshrayaBashyal&theme=github-dark&width=600" style="width:100%; max-width:800px;" />
   </div>
 
 </div>
