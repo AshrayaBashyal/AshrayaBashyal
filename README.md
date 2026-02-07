@@ -26,12 +26,6 @@
     <img src="https://skillicons.dev/icons?i=python,django,react,js,ts,html,css,tailwind,postgres,sqlite,redis,docker,git,github,postman&theme=dark" />
   </div>
 
-  <!-- ACTIVITY GRAPH SMALLER -->
-  <div style="flex: 1 1 70%; min-width: 300px; background-color:#1f1f1f; color:white; padding:15px; border-radius:12px; text-align:center; margin:auto;">
-    <h3>📈 Activity</h3>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshrayaBashyal&theme=github-dark&width=600" style="width:100%; max-width:800px;" />
-  </div>
-
 </div>
 
 <!-- CONNECT -->
