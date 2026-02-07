@@ -13,81 +13,60 @@ I enjoy designing clean APIs, authentication systems, and connecting them with p
 <h3>About Me</h3>
 
 <ul>
-  <li>Currently working on full-stack projects using <b>Django</b> and <b>React</b></li>
+  <li>Working on full-stack projects using <b>Django</b> and <b>React</b></li>
   <li>Learning <b>Docker</b>, <b>Redis</b>, and background task processing</li>
-  <li>Open to collaborating on backend-heavy or full-stack projects</li>
+  <li>Open to backend-heavy or full-stack collaboration</li>
   <li>Ask me about Django, REST APIs, authentication, and React fundamentals</li>
 </ul>
 
 <hr/>
 
-<h3>Tech Stack</h3>
+<h3>Tech Stack & Contributions</h3>
 
-<div>
-  <b>Backend & APIs</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django" />
-  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat" />
+<div style="display: flex; gap: 40px; align-items: flex-start; flex-wrap: wrap;">
+
+  <!-- LEFT COLUMN -->
+  <div style="flex: 1; min-width: 280px;">
+
+   <h4>Languages & Tools</h4>
+
+   <img src="https://skillicons.dev/icons?i=python,django,react,js,ts,html,css,tailwind,postgres,sqlite,redis,docker,git,github,postman,figma&theme=dark" />
+
+   <br/><br/>
+
+   <h4>ML Exposure</h4>
+   <ul>
+     <li>NumPy, Pandas</li>
+     <li>scikit-learn (basic models & preprocessing)</li>
+   </ul>
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div style="flex: 1; min-width: 280px;">
+
+   <img
+     src="https://github-readme-stats.vercel.app/api?username=AshrayaBashyal&show_icons=true&theme=github_dark"
+     style="max-width: 100%;"
+   />
+
+   <br/><br/>
+
+   <img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrayaBashyal&layout=compact&theme=github_dark"
+     style="max-width: 100%;"
+   />
+
+   <br/><br/>
+
+   <img
+     src="https://github-readme-activity-graph.vercel.app/graph?username=AshrayaBashyal&theme=github-dark"
+     style="max-width: 100%;"
+   />
+
+  </div>
+
 </div>
-
-<br/>
-
-<div>
-  <b>Frontend</b><br/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-</div>
-
-<br/>
-
-<div>
-  <b>Databases & Infrastructure</b><br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/SQLite-07405e?style=flat&logo=sqlite" />
-  <img src="https://img.shields.io/badge/Redis-learning-red?style=flat" />
-  <img src="https://img.shields.io/badge/Docker-learning-blue?style=flat" />
-</div>
-
-<br/>
-
-<div>
-  <b>Tools</b><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-</div>
-
-<br/>
-
-<div>
-  <b>ML Exposure</b>
-  <ul>
-    <li>NumPy, Pandas</li>
-    <li>scikit-learn (basic models & preprocessing)</li>
-  </ul>
-</div>
-
-<hr/>
-
-<h3>Featured Work</h3>
-
-<ul>
-  <li>Authentication systems using JWT and OTP</li>
-  <li>Organization & role-based access control backends</li>
-  <li>Job portal backend with employers, candidates, and applications</li>
-</ul>
-
-<p><i>See pinned repositories below.</i></p>
-
-<hr/>
-
-<h3>GitHub Stats</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AshrayaBashyal&show_icons=true&theme=github_dark" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrayaBashyal&layout=compact&theme=github_dark" />
 
 <hr/>
 
@@ -95,10 +74,10 @@ I enjoy designing clean APIs, authentication systems, and connecting them with p
 
 <p>
   <a href="https://www.linkedin.com/in/ashraya-bashyal-60119735b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ashrayabashyal1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
 
